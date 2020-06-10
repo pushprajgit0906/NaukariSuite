@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Naukari Automation Suite">
+  <test name="Naukari Test Cases">
+    <classes>
+       <class name="com.naukari.qa.testcases.LoginPageTest"/>
+      <class name="com.naukari.qa.testcases.HomePageTest"/>
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
